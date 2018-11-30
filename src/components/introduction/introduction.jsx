@@ -11,7 +11,7 @@ class IntroductionComponent extends Component {
             <p className="introduction-text">
               Loves Javascript, cats and müsli.
               Professional Cake-Eater. Defender of peace.
-              Junior IT Consultant, currently living in Stuttgart, Germany.
+              Junior IT Consultant, currently living in Stuttgart, Germanny.
             </p>
           </div>
         );
